@@ -1,0 +1,37 @@
+_repo: De-Wedergeboorte-van-Nederland_33640
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Colenbrander, H. T. (Herman Theodoor)
+    alias: Colenbrander, Herman Theodoor
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '36513'
+    url: http://www.gutenberg.org/2009/agents/36513
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tellegen, B. D. H. (Bernard Dominicus Hubertus)
+    alias: Tellegen, Bernard Dominicus Hubertus
+    birthdate: 1823
+    deathdate: 1885
+    gutenberg_agent_id: '36512'
+    url: http://www.gutenberg.org/2009/agents/36512
+description: ''
+gutenberg_issued: '2010-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33640'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DH'
+- !lcsh 'Belgium -- History -- 1794-1814'
+- !lcsh 'Netherlands -- History -- 19th century'
+- !lcsh 'Belgium -- History -- 1814-1830'
+title: De Wedergeboorte van Nederland
+url: http://www.gutenberg.org/ebooks/33640
